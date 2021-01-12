@@ -1,0 +1,4 @@
+C:\Users\colin\OneDrive\Desktop\Coding\BuildAnAppWAspnetCore\BuildAnAppWAspnetCore\obj\Debug\netcoreapp3.1\BuildAnAppWAspnetCore.csprojAssemblyReference.cache
+C:\Users\colin\OneDrive\Desktop\Coding\BuildAnAppWAspnetCore\BuildAnAppWAspnetCore\obj\Debug\netcoreapp3.1\BuildAnAppWAspnetCore.AssemblyInfoInputs.cache
+C:\Users\colin\OneDrive\Desktop\Coding\BuildAnAppWAspnetCore\BuildAnAppWAspnetCore\obj\Debug\netcoreapp3.1\BuildAnAppWAspnetCore.AssemblyInfo.cs
+C:\Users\colin\OneDrive\Desktop\Coding\BuildAnAppWAspnetCore\BuildAnAppWAspnetCore\obj\Debug\netcoreapp3.1\BuildAnAppWAspnetCore.csproj.CoreCompileInputs.cache
